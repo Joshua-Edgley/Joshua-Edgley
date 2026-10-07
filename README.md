@@ -1,5 +1,5 @@
 # 🫏 About Me:
-I am a Data Scientist with an interest in applied ML and automation.
+I am a software engineer with an interest in security, applied ML and automation.
 
 
 # 🖳 Tech Stack:
